@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first web app
-date: 2020-05-06 00:00:00 -0600
+date: 2019-12-01 00:00:00 -0600
 description: This post contains a slide show on my first web app that predicts Paris metro air quality using data science
 img: icon-paris.jpg # Add image post (optional)
 tags: [webapp, app, data science, data, metro, Paris, France, prediction, Prophet, Facebook Prophet] # add tag
