@@ -1,0 +1,14 @@
+I"b<h3 id="magnitude-and-direction-of-bending-associated-with-whisker-peg-contacts">Magnitude and direction of bending associated with whisker-peg contacts</h3>
+<p>This figure visualizes the mechanical responses (bending moment) on a rat whisker when the whisker contacts various vertical pegs surrounding the rat. The ranges of pegs reached by each whisker are intuitively visible. It also provides intuition for the magnitude and direction each whisker undergoes when it reaches each peg.</p>
+
+<p><img src="/assets/img/dv1.jpg" alt="dv1" /></p>
+
+<p>Source</p>
+
+<p>Data
+simulated by a 3D mechanical model of rat whiskers, based on beam theory.
+Legend
+gray curve: rat whiskers | arrow location: location of pegs reached by whisker | arrow direction: bending moment direction (rad) | arrow color and length: bending magnitude (N)
+Copyright
+© 2016 Yang and Hartmann</p>
+:ET
