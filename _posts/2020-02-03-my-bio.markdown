@@ -1,0 +1,23 @@
+---
+layout: post
+title: My bio in a nutshell
+date: 2020-02-03 00:00:00 -0600
+description: 
+img: icon-resume.jpg # Add image post (optional)
+tags: [Taiwan University, Northwestern, Sorbonne, Taipei, Chicago, Paris, Insight, 3M, Minnesota, USA] # add tag
+---
+
+#### Senior Data Scientist
+[Oral Care Solutions Division](https://www.3m.com/3M/en_US/oral-care-us/), [3M](https://www.3m.com/), MN, USA
+#### Data Science Fellow
+[Insight Data Science](https://insightfellows.com/data-science), USA
+#### Postdoc
+[Institut des Systèmes Intelligents et de Robotique](http://www.isir.upmc.fr/), [Sorbonne University](http://www.sorbonne-universite.fr/) (University of Paris VI), Paris, FRANCE
+#### PhD, Mechanical Engineering
+[Neuroscience and Robotics Lab](https://robotics.northwestern.edu/), [Northwestern University](https://www.northwestern.edu/), IL, USA
+#### BS, Mechanical Engineering
+[National Taiwan University](https://www.ntu.edu.tw/english/), Taipei, TAIWAN
+
+## Map view
+[Click here](https://goo.gl/maps/h1UH8m2VUVLWdmsGA)
+![bio-map]({{site.baseurl}}/assets/img/bio-map.jpg)

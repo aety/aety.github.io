@@ -3,7 +3,7 @@ layout: post
 title: Data visualization portfolio
 date: 2019-09-01 00:00:00 -0600
 description: This post contains examples of data visualization that I completed using MATLAB during my PhD. # Add post description (optional)
-img: matlab.jpg # Add image post (optional)
+img: icon-matlab.jpg # Add image post (optional)
 tags: [data, visualization, figures, rat, whiskers] # add tag
 ---
 
