@@ -4,7 +4,7 @@ title: Birthday project
 date: 2020-08-27 00:00:00 -0600
 description: Introducing my birthday project this year
 img: icon-cake.jpg # Add image post (optional)
-tags: [computer vision, robot, tracking, medical robot, biomechanics, imaging, medical, DICOM] # add tag
+tags: [NLP, data, analysis, visualization, pandas, seaborn] # add tag
 ---
 
 On my birthday this year, I invited a few important wise women in my life to share 
