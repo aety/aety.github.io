@@ -1,12 +1,13 @@
 ---
 layout: post
 title: My bio in a nutshell
-date: 2020-02-03 00:00:00 -0600
+date: 2021-09-11 00:00:00 -0600
 description: 
 img: icon-resume.jpg # Add image post (optional)
 tags: [Taiwan University, Northwestern, Sorbonne, Taipei, Chicago, Paris, Insight, 3M, Minnesota, USA] # add tag
 ---
-
+#### Data Scientist
+[Core Motion](https://developer.apple.com/documentation/coremotion), [Apple](https://www.apple.com/), CA, USA
 #### Senior Data Scientist
 [Oral Care Solutions Division](https://www.3m.com/3M/en_US/oral-care-us/), [3M](https://www.3m.com/), MN, USA
 #### Data Science Fellow
